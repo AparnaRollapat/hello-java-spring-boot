@@ -11,6 +11,7 @@
 	<groupId>com.tutorialworks</groupId>
 	<artifactId>hello-java-spring-boot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>hello-java-spring-boot</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
